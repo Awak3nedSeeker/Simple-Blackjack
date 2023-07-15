@@ -1,0 +1,24 @@
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+H:\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\Past Classes\PG2\Blackjack\Blackjack\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.genruntimeconfig.cache
